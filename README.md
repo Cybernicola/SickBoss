@@ -1,6 +1,6 @@
 Bienvenidos
 
-Equipo Niupi
+Equipo "la primera línea"
 
 Arturo
 Carlos
